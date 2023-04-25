@@ -1,0 +1,20 @@
+{
+  "name": "lectura-bionica",
+  "version": "1.0.0",
+  "description": "app para convertir cualquier texto al formato de lectura bionica",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "lectura-bionica"
+  },
+  "author": "Juan Gravano",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "syllable": "^5.0.1",
+    "syllable-es": "^1.0.1"
+  }
+}
